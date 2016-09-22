@@ -2,3 +2,6 @@
 *.pyc
 # vscode..
 .vscode/
+# holds source from http://lisperator.net/pltut/.
+# I don't want to share it without consent.
+model/
